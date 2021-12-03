@@ -25,7 +25,9 @@ Based on three variables,
 (2) Schduled departure time
 (3) The day of the week,
 
-We estimate whether flight delays more than 15 minutes or not using Logistic regressions.  All the variables are hot coded.
+We estimate whether flight delays more than 15 minutes or not using Logistic regressions.  All the variables are hot coded. Logistic_regression.ipynb provides the model and its score on the given data.
+
+# Implication for customers and airline companies.
 
 # Presentation Video and slides
 
